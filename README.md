@@ -8,6 +8,5 @@ Projeto com o objetivo de gerar podcast utilizando prompts através de ferrament
 ## 💻 Tecnologias:
 
 - [ChatGPT](https://chat.openai.com/) - Criação de Roteiro
-- [MidJourney](https://www.midjourney.com/app/) - Usado para gerar capa
 - [ElevenLabs](https://beta.elevenlabs.io/) - Usado para gerar Audio
 - [Capcut](https://www.capcut.com/pt-br/) - Usado para para tratar aúdio e adicionar sons de fundo
