@@ -1,7 +1,8 @@
 ## Projeto Podcast com I.A.s Generativas
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma atividade do curso da Dio "
-Criando um Podcast com IAs Generativas"
+ > ℹ️ **NOTE:
+> ** Este é o repositório desenvolvido durante uma atividade do curso da Dio "Criando um Podcast com IAs Generativas"
+
 Projeto com o objetivo de gerar podcast utilizando prompts através de ferramentas de IA.
 
 ## 💻 Tecnologias:
